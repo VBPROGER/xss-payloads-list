@@ -20,3 +20,4 @@
 " /><script>alert('XSS')</script><img 
 <xss onmouseenter="alert(1)" />
 <p onmouseenter="alert(1)" />
+<p onmouseenter="alert(1)">Hover me!</p>
