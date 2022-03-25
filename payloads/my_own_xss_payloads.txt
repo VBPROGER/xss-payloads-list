@@ -18,3 +18,5 @@
   /><script>alert(1)</script>
 ;alert("Google")
 " /><script>alert('XSS')</script><img 
+<xss onmouseenter="alert(1)" />
+<p onmouseenter="alert(1)" />
