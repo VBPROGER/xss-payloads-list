@@ -24,3 +24,4 @@
 #'</img><button onmouseenter="alert('XSS')">Hover me! :D</button><img
 '</img><button onmouseenter="alert('XSS')">Hover me! :D</button><img
 frame?timer=</div><button onmouseenter="alert(1)">Lol</button><div>
+');alert(1)
