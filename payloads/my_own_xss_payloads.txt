@@ -6,3 +6,5 @@
 <button onmouseenter="alert('XSS')"></button>
 <img onload="alert(1)"></button>
 /><img onerror="alert(1)"></img>
+="alert(1)"></
+');alert(XSS)"></
