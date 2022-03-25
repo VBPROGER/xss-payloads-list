@@ -10,3 +10,8 @@
 ');alert(XSS)"></
 #'</img><script>alert(1)</script>
 '</img><script>alert(1)</script>
+<i>XSS</i>
+ /><button onmouseenter="alert('XSS')" />
+ ';/><script alert('XSS')" />
+ >;<<script alert('XSS')" />>
+ <script alert('XSS')" />
