@@ -1,0 +1,3 @@
+<a onmouseover="alert(document.cookie)">xxs link</a>
+<embed code=%(scriptlet)s></embed>
+<IMG SRC='vbscript:msgbox("XSS")'>
