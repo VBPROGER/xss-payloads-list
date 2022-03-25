@@ -1,0 +1,4 @@
+</xmp><h1>LOL
+<h2>Infected!</h2>
+3');alert('1)
+0');eval(atob('YWw') + 'ert("XSS")')
