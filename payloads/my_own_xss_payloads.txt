@@ -17,3 +17,4 @@
  <script alert('XSS')" />
   /><script>alert(1)</script>
 ;alert("Google")
+" /><script>alert('XSS')</script><img 
