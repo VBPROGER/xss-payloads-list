@@ -21,3 +21,5 @@
 <xss onmouseenter="alert(1)" />
 <p onmouseenter="alert(1)" />
 <p onmouseenter="alert(1)">Hover me!</p>
+#'</img><button onmouseenter="alert('XSS')">Hover me! :D</button><img
+'</img><button onmouseenter="alert('XSS')">Hover me! :D</button><img
