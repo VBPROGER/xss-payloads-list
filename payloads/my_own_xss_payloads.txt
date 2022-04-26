@@ -30,3 +30,4 @@ frame?timer=</div><button onmouseenter="alert(1)">Lol</button><div>
 /><ImG sRc="" onerror=alert('XSS')></ImG>
 <button onmouseenter=alert(1)>HELLO WORLD</button>
 <img src="sewr83450t9r4tertertertreyhtyu67u5r" onerror=alert(1) />
+</xmp><b>XMP</b>
